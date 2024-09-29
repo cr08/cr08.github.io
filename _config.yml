@@ -1,3 +1,13 @@
-theme: jekyll-theme-minimal
+# _config.yml
+
+# Site settings
 title: cr08's Tech Blog
-description: WIP!
+description: A running blog detailing all of my tech shenanigans! 
+url: "https://cr08.github.io" # Update with your GitHub Pages URL
+baseurl: "" # Should be empty for GitHub Pages, or the name of subfolder if the site is served in a subfolder
+theme: jekyll-theme-cayman
+
+# GitHub Pages settings
+repository: cr08/cr08.github.io # Update with your GitHub repository
+branch: main # Update with your repository's main branch
+
